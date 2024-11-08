@@ -14,7 +14,7 @@ This project is a LinkedIn Post Generator built using Python, Streamlit, and a l
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/linkedin-post-generator.git
+   git clone https://github.com/yaswanthkalyan/LinkedIn_Blog_Generator.git
    cd linkedin-post-generator
    ```
 
